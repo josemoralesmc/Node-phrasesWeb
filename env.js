@@ -1,4 +1,4 @@
-const uri = `mongodb+srv://cr1337:homerojs123@databases.wjmpl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`
+const uri = `mongodb+srv://Admin:1234@acamica.nz6vp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`
 module.exports = {
    uri
 }
