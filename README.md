@@ -5,7 +5,7 @@ SASS/JavaScript/Node.js /Express
 
 # PRUEBA
 
-🔴🔴🔴https://phrasesweb-cr1337.herokuapp.com 🔴🔴🔴
+🔴🔴🔴https://phrasesweb.herokuapp.com/ 🔴🔴🔴
 
 # RESUMEN 
 
